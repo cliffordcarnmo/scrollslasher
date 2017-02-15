@@ -2,7 +2,7 @@
 Converts a textfile containing ASCII scrolltext to Amiga-assembly-friendly data. It accidentally also solves arguments between Slash and Origo on how to write scrolltexts for Amiga demos.
 
 ##Example usage
-`scrollslasher.exe <file> <page width> <page height>`
+`scrollslasher <file> <page width> <page height>`
 
 ##Example output
 ~~~~
